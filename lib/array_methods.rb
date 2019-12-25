@@ -10,8 +10,8 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  max_val = 0 
-  while max_val < array.length do 
+  max_val = array[0] 
+  array.length.times do 
     if array[]
 
 end
